@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
-    <option name="projectFiles" value="$PROJECT_DIR$/src/soc/BatterySOCDataset.py;C:/Users/Ian/workspace/BatteryProjects/src/soc/BatterySocPredictor.py;C:/Users/Ian/workspace/BatteryProjects/src/soc/Config.py;C:/Users/Ian/workspace/BatteryProjects/src/soc/LSTMModel.py;C:/Users/Ian/workspace/BatteryProjects/src/soc/TtlModel.py" />
-  </component>
-</project>
