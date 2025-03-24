@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# venv
+.venv/
+
+#data
+*.csv
+
+# git
+.idea/
+
+#figs
+*.png
+
+#models
+*.pth
