@@ -17,13 +17,13 @@ __pycache__/
 .venv/
 
 #data
-*.csv
+data/*.csv
 
 # git
 .idea/
 
 #figs
-*.png
+figs/*.png
 
 #models
-*.pth
+models/*.pth
